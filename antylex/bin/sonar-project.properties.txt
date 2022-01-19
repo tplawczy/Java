@@ -1,0 +1,12 @@
+
+# Encoding of the source code. Default is default system encoding
+sonar.sourceEncoding=UTF-8
+
+sonar.projectKey=antylex
+sonar.projectName=antylex
+sonar.projectVersion=1.00
+sonar.sources=.
+sonar.language=java
+sonar.login=Administrator
+sonar.password=1234
+sonar.organization=torus
